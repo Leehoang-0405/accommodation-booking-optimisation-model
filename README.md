@@ -62,9 +62,7 @@ It can be adapted for:
 
 ## 👤 Author  
 **Ba Huy Hoang Le**  
-📧 huyhoangle040502@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
-
+📧 huyhoangle040502@gmail.com   
 ---
 
 ## 📜 Acknowledgement of AI Use  
