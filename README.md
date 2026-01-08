@@ -6,7 +6,7 @@ Coastal Nest Motel, a 20-unit boutique property, required a robust framework to 
 ## 2. Business Problem
 **The Decision:** Motel management was repeatedly making critical decisions regarding nightly room rates and overbooking levels based on fixed assumptions of holiday demand.
 
-**The Failure:** The existing logic was flawed because it treated highly variable factors—such as late cancellations, walk-in arrivals, and miscellaneous expenses—as constants. This led to a "one-in-four risk of loss" at lower price points and a failure to capture significant revenue during high-demand windows.
+**The Failure:** The existing logic was flawed because it treated highly variable factors,such as late cancellations, walk-in arrivals, and miscellaneous expenses—as constants. This led to a "one-in-four risk of loss" at lower price points and a failure to capture significant revenue during high-demand windows.
 
 **The Impact:** Inefficient pricing and poor overbooking management meant the motel was either overpaying for "bumped" guests or leaving rooms empty during its most profitable season. Without a stochastic model, the motel faced high volatility where even profitable days seldom reached their full earning potential.
 
