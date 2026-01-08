@@ -43,6 +43,7 @@ While the model successfully identifies the $150 rate as the optimal profit driv
 
 ## 8. Context and Credits
 * **Client:** Coastal Nest Motel (Boutique Property).
+* **Market Benchmarking:** The property profile and operational parameters are **benchmarked against market research of small-to-medium sized motels (SMEs) in the Melbourne beachside tourist sector.**
 * **Program:** MIS775: Decision Modelling for Business Analytics.
 * **Individual Contributor:** Ba Huy Hoang Le (s224309594).
 * **AI Disclosure:** Generative AI tools were used for refining content and code snippets within the original reports.
