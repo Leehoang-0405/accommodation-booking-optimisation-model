@@ -32,13 +32,13 @@ Coastal Nest Motel, a 20-unit boutique property, required a robust framework to 
 While the model successfully identifies the $150 rate as the optimal profit driver, a critical assessment reveals areas for further technical hardening:
 * **Financial Logic Refinement:** The current model treats payments to overbooked guests as a simple refund. In real-world operations, "bumping" a guest typically requires additional compensation as a goodwill gesture. Underestimating this cost may slightly skew the net profit outcomes.
 * **Exploration of Decision Space:** The current analysis sampled a subset of decision levels. To ensure the findings represent a global optimum, a full systematic evaluation of all 27 possible combinations of decision variables is required.
-* **Statistical Governance:** The justifications for specific stochastic inputs—such as whether they were based on historical data, estimated ranges, or expert judgment—require more explicit documentation to improve the realism and credibility of the simulation inputs.
+* **Statistical Governance:** The justifications for specific stochastic inputs, such as whether they were based on historical data, estimated ranges, or expert judgment, require more explicit documentation to improve the realism and credibility of the simulation inputs.
 * **Distribution Validation:** While the selected distributions align with motel operations, further justification regarding their key properties (discrete vs. continuous, skewness, and range) is necessary to build total trust in the model's structure.
 
 ## 7. Next Steps
 * **Incorporate Service Recovery Costs:** Update the model logic to distinguish between simple payment reversals and additional "Goodwill Compensation" to reflect the true financial impact of overbooking.
 * **Full-Grid Sensitivity Analysis:** Execute a complete 27-combination simulation set to map the entire decision space and identify any hidden risks or opportunities.
-* **Stochastic Hardening:** Provide a detailed rationale for each selected distribution, explaining how parameters were determined—whether calculated from historical data or estimated through expert judgment.
+* **Stochastic Hardening:** Provide a detailed rationale for each selected distribution, explaining how parameters were determined, whether calculated from historical data or estimated through expert judgment.
 * **Model Transparency:** Enhance the "Assumptions" section by clarifying why each listed constraint is reasonable in the context of Airbnb-style operations, thereby building higher credibility for the model’s outputs.
 
 ## 8. Context and Credits
