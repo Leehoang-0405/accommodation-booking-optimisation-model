@@ -1,4 +1,4 @@
-# Revenue Optimization & Booking Management Decision Support System
+# Revenue Optimisation & Booking Management Decision Support System
 
 ## 1. Executive Summary
 Coastal Nest Motel, a 20-unit boutique property, required a robust framework to navigate the volatility of peak holiday seasons. This project replaced static pricing strategies with a **Monte Carlo Simulation** model to balance occupancy, overbooking, and financial risk. By identifying that a "safe" $120 nightly rate yielded only $119 in average daily profit, this solution optimized pricing to $150, increasing average profit to **$613 per day** while maintaining a less than 2% probability of loss. This work empowered management to move from conservative, low-yield decisions to data-backed, high-reward strategies.
